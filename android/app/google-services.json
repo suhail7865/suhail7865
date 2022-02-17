@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736728713240",
+    "project_id": "solvekar-fec75",
+    "storage_bucket": "solvekar-fec75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736728713240:android:39c34b3c1e0a7255c7db6d",
+        "android_client_info": {
+          "package_name": "com.dollop.solvekar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736728713240-ftg1r0oobrkte4pvo262dhsvpsod3ooq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dollop.solvekar",
+            "certificate_hash": "f68140d2fa328c3abdd2746ffcc07084bd5d58d9"
+          }
+        },
+        {
+          "client_id": "736728713240-m9jnittu3ahf3hcqk847ajbvrvg4kaoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAviNu9lfBBRY4CtG9s0gqd9EC3LmFHRSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736728713240-m9jnittu3ahf3hcqk847ajbvrvg4kaoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

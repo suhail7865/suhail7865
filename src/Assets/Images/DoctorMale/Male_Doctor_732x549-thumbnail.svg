@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 732 549">
+      <image width="732" height="549" xlink:href="Male_Doctor_732x549-thumbnail-image.jpg"/>
+    </pattern>
+  </defs>
+  <rect id="Male_Doctor_732x549-thumbnail" width="45" height="45" rx="6" fill="url(#pattern)"/>
+</svg>

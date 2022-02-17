@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="0 1.492 50 50">
+      <image preserveAspectRatio="xMidYMid slice" width="50" height="62.439" xlink:href="Outdoors-man-portrait_(cropped)-image.jpg"/>
+    </pattern>
+  </defs>
+  <rect id="Outdoors-man-portrait__cropped_" data-name="Outdoors-man-portrait_(cropped)" width="50" height="50" rx="8" fill="url(#pattern)"/>
+</svg>

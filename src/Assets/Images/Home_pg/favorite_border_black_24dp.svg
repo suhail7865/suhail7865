@@ -1,0 +1,8 @@
+<svg id="favorite_border_black_24dp" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <path id="Path_35" data-name="Path 35" d="M0,0H14V14H0Z" fill="none"/>
+  <g id="Group_18" data-name="Group 18">
+    <g id="bookmark_border_black_24dp" transform="translate(1.603 1.702)">
+      <path id="Path_64" data-name="Path 64" d="M9.106,1.349H3.392A1.146,1.146,0,0,0,2.249,2.492v9.143l4-1.714,4,1.714V2.492A1.146,1.146,0,0,0,9.106,1.349Zm0,8.571L6.249,8.675,3.392,9.921V2.492H9.106Z" transform="translate(-0.852 -1.051)" fill="#6f7c8e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Ellipse_1347-2" data-name="Ellipse 1347" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1347" data-name="Ellipse 1347" cx="20.5" cy="20.5" r="20.5" fill="#fff" stroke="#ddd" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_1347-3" data-name="Ellipse 1347" transform="translate(0 0)" fill="#fff" stroke="#ddd" stroke-width="1">
+    <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+    <circle cx="20.5" cy="20.5" r="20" fill="none"/>
+  </g>
+  <g id="Clip" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <image id="Layer_1349" data-name="Layer 1349" width="24.527" height="20.5" transform="translate(8.2 10.66)" xlink:href="Ellipse%201347-image.png"/>
+  </g>
+</svg>
